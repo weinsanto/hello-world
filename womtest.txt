@@ -5,7 +5,14 @@ Ceci est un test d'ajout de fichier
 apres un push re-test ... et puis on ira verifier sur le dashboard
 
 
-test commit
-+
-test push
+modif du 18/03/2018 10:40
+grr ca marche pas le push
 
+on rame encore
+modif 11
+
+pour enregistrer les modifs c'est plus bas
+test de pull
+
+plus quelquechose
+re-test commit
